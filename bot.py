@@ -32,7 +32,7 @@ while bin <= l_bin:
     lines = f.readlines(0)
     #print(lines)
     ww2 = f'[\'{ww}\']'
-    if str(lines)==ww2:
+ if str(lines)==ww2:
       #print(ww2)
       print('Nope')
     else:
@@ -41,4 +41,4 @@ while bin <= l_bin:
       #print(r.text)
       with open('last.txt', 'w') as f:
         f.write(f'{ww}')
-      time.sleep(5)
+  time.sleep(5)
