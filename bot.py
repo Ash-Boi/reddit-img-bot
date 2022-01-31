@@ -32,7 +32,7 @@ while bin <= l_bin:
     lines = f.readlines(0)
     #print(lines)
     ww2 = f'[\'{ww}\']'
- if str(lines)==ww2:
+    if str(lines)==ww2:
       #print(ww2)
       print('Nope')
     else:
