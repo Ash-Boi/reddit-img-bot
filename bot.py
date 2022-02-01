@@ -5,7 +5,7 @@ import os
 
 chat_id = -1001789110861
 bot_token = "5299386335:AAGXz22rE-zWa_k1YHy899KpYyJeCMkaVu8"
-feed_url = "https://www.reddit.com/r/memes+wholesomememes/new/.rss"
+feed_url = "https://www.reddit.com/r/memes/new/.rss"
 
 bin = 5
 l_bin = 7
